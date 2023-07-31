@@ -1,0 +1,5 @@
+print("hi Arko")
+print('I\'m monty pyhton')
+print("I'm Monty Python")
+print(True< False)
+print("I like \n""Monty Python\"")
